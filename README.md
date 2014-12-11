@@ -7,5 +7,6 @@ NOTE: Some solutions require the LIBSVM library, available here:
 
 http://www.csie.ntu.edu.tw/~cjlin/libsvm/
 
-In particular, the svmtrain() function is *not* MATLAB's version of this function.
+In particular, the `svmtrain()` function used in the solutions
+is *not* MATLAB's version of this function.
 
